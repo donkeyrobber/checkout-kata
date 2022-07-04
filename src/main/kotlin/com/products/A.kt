@@ -7,6 +7,6 @@ class A: Product {
     }
 
     override fun getPrice(): Double {
-        return 0.75
+        return 0.5
     }
 }
